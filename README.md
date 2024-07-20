@@ -1,12 +1,12 @@
 <h1 align="center">VR Survey</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/yourusername/vr-survey" alt="Top Language">
-  <img src="https://img.shields.io/github/license/yourusername/vr-survey" alt="License">
+  <img src="https://img.shields.io/github/languages/top/tonadun/vr-survey" alt="Top Language">
+  <img src="https://img.shields.io/github/license/tonadun/vr-survey" alt="License">
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/vr-survey">GitHub Repository</a>
+  <a href="https://github.com/tonadun/vr-survey">GitHub Repository</a>
 </p>
 
 <h2>📜 Project Overview</h2>
@@ -46,7 +46,7 @@
 </ol>
 
 <pre>
-git clone https://github.com/yourusername/vr-survey.git
+git clone https://github.com/tonadun/vr-survey.git
 </pre>
 
 <ol start="2">
@@ -92,7 +92,7 @@ npm start
 <h2>📬 Contact</h2>
 
 <p>
-  For inquiries, please email <a href="mailto:contact@yourdomain.com">contact@yourdomain.com</a>.
+  For inquiries, please email <a href="mailto:hello@nadunliyanage.com">hello@nadunliyanage.com</a>.
 </p>
 
 <h2>📄 License</h2>
@@ -102,5 +102,5 @@ npm start
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/vr-survey">Back to GitHub Repository</a>
+  <a href="https://github.com/tonadun/vr-survey">Back to GitHub Repository</a>
 </p>
